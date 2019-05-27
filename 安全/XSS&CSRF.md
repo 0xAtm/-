@@ -1,5 +1,5 @@
-###安全
-####XSS 跨站脚本攻击
+### 安全
+#### XSS 跨站脚本攻击
 XSS 分为三种：反射型，存储型和 DOM-based
 
 XSS 通过修改 HTML 节点或者执行 JS 代码来攻击网站。
@@ -14,7 +14,7 @@ XSS 通过修改 HTML 节点或者执行 JS 代码来攻击网站。
 2. httpOnly js脚本将无法读取到 cookie 信息。
 3. 白名单
 
-####CSRF 跨站请求伪造
+#### CSRF 跨站请求伪造
 攻击者盗用了你的身份，以你的名义发送恶意请求 
 ![图片](https://ask.qcloudimg.com/http-save/yehe-2170887/42jy9nsxn5.jpeg)
 
